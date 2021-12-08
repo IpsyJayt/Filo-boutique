@@ -1,0 +1,19 @@
+.mainbody{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+h2.text-center{
+    font-family: 'Playball', cursive;
+}
+p.text-left, p.text-right{
+    font-family: 'Amaranth', sans-serif;
+    font-size: x-large;
+}
+p.text-right{
+    padding-right: 10px;
+}
+.logo{
+    margin-bottom: -5%;
+}
+
+
