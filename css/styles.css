@@ -1,3 +1,13 @@
+nav{
+    background-color: rgb(77, 77, 167);
+}
+.nav-item >.nav-link{
+    color: #ffff;
+    
+}
+.nav-item >.nav-link:hover{
+    color: white;
+}
 .mainbody{
     background: rgb(238,174,202);
     background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
@@ -18,6 +28,7 @@ p.text-right{
 .card{
     background-color: #9da6d1;
     color: #ffff;
+    font-size: larger
 }
 .row{
     margin:2.5%;
@@ -25,4 +36,9 @@ p.text-right{
 .btn:hover{
     color: white;
     background-color: aqua;
+}
+footer{
+    background-color: rgb(77, 77, 167);
+    color: #ffff;
+    padding: 1%;
 }
